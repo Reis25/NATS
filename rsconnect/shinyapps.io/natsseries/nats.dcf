@@ -1,0 +1,12 @@
+name: nats
+title:
+username:
+account: natsseries
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1895484
+bundleId: 3014141
+url: https://natsseries.shinyapps.io/nats/
+when: 1586906905.57617
+asMultiple: FALSE
+asStatic: FALSE
