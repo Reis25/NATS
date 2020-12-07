@@ -60,3 +60,5 @@ We open-source this package and tool to the community to facilitate the research
   year =         {2020}
 }
 ```
+
+Finally, if you have any questions or you want to report anything, feel free to reach me at: eduarda.chagas@dcc.ufmg.br.
